@@ -1,0 +1,12 @@
+{
+  "name": "eagler-relay",
+  "version": "1.0.0",
+  "description": "Private Eaglercraft Relay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.11.0"
+  }
+}
